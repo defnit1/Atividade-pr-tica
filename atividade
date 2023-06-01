@@ -1,1 +1,6 @@
+git init
+git remote add origin <URL_DO_REPOSITÓRIO>
+git status
+git add .
+git commit -m "Mensagem do commit"
 
